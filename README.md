@@ -43,8 +43,10 @@ Example:
 - **Day 2**: "Completed resume, moved task to Done."  
 ![Progress Tracking](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20002628.png)
 ## Step 6: Sprint Review & Retrospective
-- Created a **Sprint Burndown Chart** to track progress.  
-- Made a **retrospective report** summarizing what went well and areas for improvement.  
+- Created a **Sprint Burndown Chart** to track progress.
+![Sprint Burndown Chart](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20004525.png)
+- Made a **retrospective report** summarizing what went well and areas for improvement.
+![Retrospective report](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20005517.png)
 - Retrospective and final summary reports were uploaded to Confluence:  
   - [Retrospective Report](https://suryawanshiyash.atlassian.net/wiki/x/SwEB)  
   - [Final Summary Report](https://suryawanshiyash.atlassian.net/wiki/x/voAB)  
