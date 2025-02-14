@@ -6,7 +6,8 @@
 - Used the **"Scrum Software Development"** template.  
 
 ## Step 2: Added Tasks to the Backlog
-Made a structured list of tasks and added them to the backlog with descriptions and priorities.  
+Made a structured list of tasks and added them to the backlog with descriptions and priorities.
+![Task Backlog](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20000931.png)
 
 | Tasks               | Description                                     | Priority |
 |---------------------|-----------------------------------------------|----------|
