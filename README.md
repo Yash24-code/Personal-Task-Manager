@@ -19,6 +19,7 @@ Made a structured list of tasks and added them to the backlog with descriptions 
 
 ## Step 3: Enabled Story Points for Estimation
 Assigned story points based on task effort estimation.  
+![Story Points Estimation](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20001802.png)
 
 | Tasks               | Story Points |
 |---------------------|-------------|
@@ -32,7 +33,7 @@ Assigned story points based on task effort estimation.
 - Created a sprint named **"Sprint 1 – Personal Productivity"**.  
 - Moved tasks from backlog to sprint.  
 - Started the sprint.  
-
+![Sprint Board](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20002232.png)
 ## Step 5: Tracked Daily Progress
 - Dragged tasks from **To Do → In Progress** as I worked on them.  
 - Updated comments daily.  
@@ -40,7 +41,7 @@ Assigned story points based on task effort estimation.
 Example:  
 - **Day 1**: "Started working on the resume, drafted the experience section."  
 - **Day 2**: "Completed resume, moved task to Done."  
-
+![Progress Tracking](https://github.com/Yash24-code/Personal-Task-Manager/blob/main/Screenshot%202025-02-14%20002628.png)
 ## Step 6: Sprint Review & Retrospective
 - Created a **Sprint Burndown Chart** to track progress.  
 - Made a **retrospective report** summarizing what went well and areas for improvement.  
